@@ -46,6 +46,10 @@
   <div class="modulo red"><strong>🔴 Módulo 19 – Estudo de Caso</strong><p>Transformação Digital com Microsoft Power Platform</p></div>
   <div class="modulo red"><strong>🔴 Módulo 20 – Avaliação e Certificado</strong><p>Teste final, entrega de projeto e emissão de certificado</p></div>
 
+  
+</body>
+</html>
+
   ## 🤖 Linguagens e Tecnologias
 
   <img 
@@ -67,5 +71,4 @@
    src="https://www.r-project.org/logo/Rlogo.svg" 
 />
 
-</body>
-</html>
+
