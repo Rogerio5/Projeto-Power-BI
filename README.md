@@ -46,5 +46,7 @@
   <div class="modulo red"><strong>🔴 Módulo 19 – Estudo de Caso</strong><p>Transformação Digital com Microsoft Power Platform</p></div>
   <div class="modulo red"><strong>🔴 Módulo 20 – Avaliação e Certificado</strong><p>Teste final, entrega de projeto e emissão de certificado</p></div>
 
+  ## 🤖 Linguagens e Tecnologias
+
 </body>
 </html>
