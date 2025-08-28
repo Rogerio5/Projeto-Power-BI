@@ -57,5 +57,15 @@
    src="https://img.icons8.com/color/48/000000/power-bi.png" 
 />
 
+/>
+<img 
+   align="left" 
+   alt="R" 
+   title="R Language" 
+   width="30px" 
+   style="padding-right: 10px;" 
+   src="https://www.r-project.org/logo/Rlogo.svg" 
+/>
+
 </body>
 </html>
